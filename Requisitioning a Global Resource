@@ -4,7 +4,7 @@ Requisition requests will remain publically visible at all times. Any OSG member
 
 ## How to Requisition a Global Resource
 
-Create a new document in the Global-Resource repository using this naming convention: "Requisition Request - [Time/Skill/Object] [DDMMYY HHMM] [Your-OSG-Name].md" 
+Create a new document in the Global-Resource repository using this naming convention: "Requisition Request - Global - [Time/Skill/Object] - [DDMMYY HHMM] - [Your-OSG-Name].md" 
 
 ##Examples Filenames:
 
